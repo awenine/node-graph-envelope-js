@@ -1,6 +1,6 @@
 {
   "name": "node-graph-envelope",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A function for creating a graph function from defined node points in Javascript",
   "types": "./lib/cjs/types/index.d.ts",
   "main": "./lib/cjs/index.js",
